@@ -1,0 +1,15 @@
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\bin\Debug\net6.0\еженедельник.exe
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\bin\Debug\net6.0\еженедельник.deps.json
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\bin\Debug\net6.0\еженедельник.runtimeconfig.json
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\bin\Debug\net6.0\еженедельник.dll
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\bin\Debug\net6.0\еженедельник.pdb
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.AssemblyInfoInputs.cache
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.AssemblyInfo.cs
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.dll
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\refint\еженедельник.dll
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.pdb
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\еженедельник.genruntimeconfig.cache
+C:\Users\kudaj\source\repos\еженедельник\еженедельник\obj\Debug\net6.0\ref\еженедельник.dll
